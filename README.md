@@ -31,7 +31,7 @@ If you’re here, read quietly.
 And know: I’m just getting started.
 
 
-initial commit
+
 <!--
 **Vegvisir-cyber/Vegvisir-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
